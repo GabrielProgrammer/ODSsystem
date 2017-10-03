@@ -1,11 +1,10 @@
-
 Título do App: NEW
 =============================================================================================================================
 
 Descrição:
   O aplicativo terá como nome "NEW", e teria como objetivo auxiliar os usuários no descarte de material eletrônico*, que futuramente serão transformados em dispositivos de fornercimento de energia.
-  Além de oferecer este recurso,o"app" terá um forúm do qual usuários poderam debater novas fontes de energia, provimento do aplicativo e suas demais ideais, discução de eventos, entre outros demais recursos.
-  A grande finalidade dessa aplicativo seria viabilizar o acesso universal e promover  aumento de energia solar, eolica e maritima em diversos locais, de forma sustentável.
+  Além de oferecer este recurso, o "app" terá um forúm do qual os usuários poderam debater novas fontes de energia, para o desenvolvimento do aplicativo e suas demais ideais, discução de eventos, entre outros demais recursos.
+  A grande finalidade desse aplicativo seria viabilizar o acesso universal e promover o aumento de energia solar, eolica e marítima em diversos locais, de forma sustentável.
   
   
   
@@ -13,7 +12,7 @@ Descrição:
   
   Descrição(Funcionamento):
   
-  Depois de preenchidas algumas especificações(cadastro e etc), o usuário seria "levado" a uma janela que apresentaria os tipos de materiais eletrônicos e como identificar a espécie de matéria que o mesmo detém.
+  Depois de preenchidas algumas especificações (cadastro e etc), o usuário seria "levado" a uma janela que apresentaria os tipos de materiais eletrônicos e como identificar a espécie de matéria que o mesmo detém.
   No momento da "doação", haveria algumas opções de transporte:
   .Por busca - Um voluntário iria até o local para a recolha do produto eletrônico - isto facilitaria no quesito de transporte, pois no haveria necessidade do usuário se locomover para ceder o material ao centro de recolha;
   .Por Entrega - O usuário em si, levaria o produto ao local, sendo que o mesmo poderia optar por conhecer mais a ideia do projeto;
@@ -25,14 +24,15 @@ Descrição:
    - Cadastro do usuário;
    - Reconhecimento do material;
    - Obtenção do endereço onde o material se encontra;
-   - Doar Material;
-   
+   - Doar material;
+   - Rastreamento de materias;
    
    
   Requisitos não-funcionais:
    - Comprovante de cadastro;
    - Comprovante de Endereço;
-   - Linguagem do aplicativo;
    - Requisitos de segurança (https);
+   - Linguagem do aplicativo;
    - Login;
+
 
